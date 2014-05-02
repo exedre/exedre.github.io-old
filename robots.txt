@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://exedre.github.io/sitemap.xml 
